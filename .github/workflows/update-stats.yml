@@ -1,0 +1,37 @@
+name: Update Slack Stats
+
+on:
+  schedule:
+    - cron: '30 1 * * 1' # Runs every Monday at 01:30 UTC
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch and Update Stats
+        run: npx ts-node scripts/fetch-stats.ts
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update slack stats [skip ci]"
+          file_pattern: 'stats/**'
+          branch: ${{ github.ref }}
