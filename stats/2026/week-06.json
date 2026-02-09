@@ -3,7 +3,7 @@
     "chain": "137",
     "tokenIn": "0x8054d4d130c3a84852f379424bcac75673a7486b",
     "tokenOut": "0x2dca80061632f3f87c9ca28364d1d0c30cd79a19",
-    "frequency": 1
+    "frequency": 2
   },
   {
     "chain": "1",
