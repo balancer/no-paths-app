@@ -50,9 +50,8 @@ export function getPreviousWeekRange(referenceDate: Date = new Date()) {
   startOfPreviousWeek.setUTCDate(startOfCurrentWeek.getUTCDate() - 7)
 
   // "End of Previous Week" is 1 millisecond before Start of Current Week
-  // const endOfPreviousWeek = new Date(startOfCurrentWeek)
-  // endOfPreviousWeek.setTime(endOfPreviousWeek.getTime() - 1)
-  const endOfPreviousWeek = new Date()
+  const endOfPreviousWeek = new Date(startOfCurrentWeek)
+  endOfPreviousWeek.setTime(endOfPreviousWeek.getTime() - 1)
 
   return {
     start: Math.floor(startOfPreviousWeek.getTime() / 1000), // Seconds
@@ -139,8 +138,6 @@ async function fetchAndProcessMessages() {
         latest: range.end.toString(),
         cursor: cursor,
       })
-
-      console.log(result)
 
       if (!result.messages || result.messages.length === 0) {
         hasMore = false
