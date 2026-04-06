@@ -1,0 +1,2390 @@
+[
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 23
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 18
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "tokenOut": "0x06bb4ab600b7d22eb2c312f9babc22be6a619046",
+    "frequency": 15
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xcec3ba7029d54d005275d3510960cfe433811c59",
+    "frequency": 15
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xc597a71a49c49b4a0554b3110bab25a51c76847b",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 11
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "frequency": 11
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
+    "tokenOut": "0x48f9e38f3070ad8945dfeae3fa70987722e3d89c",
+    "frequency": 10
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xfc00000000000000000000000000000000000008",
+    "frequency": 9
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
+    "tokenOut": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+    "frequency": 8
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
+    "tokenOut": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "frequency": 8
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "tokenOut": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
+    "frequency": 8
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "frequency": 8
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "tokenOut": "0xcec3ba7029d54d005275d3510960cfe433811c59",
+    "frequency": 8
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+    "tokenOut": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "frequency": 8
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x86ed939b500e121c0c5f493f399084db596dad20",
+    "frequency": 8
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xcec3ba7029d54d005275d3510960cfe433811c59",
+    "tokenOut": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "frequency": 8
+  },
+  {
+    "chain": "999",
+    "tokenIn": "0x2222222222222222222222222222222222222222",
+    "tokenOut": "0xb88339cb7199b77e23db6e890353e22632ba630f",
+    "frequency": 8
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 7
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0x323c05bc83c549e2e3deba1bb6800a63e7220f24",
+    "tokenOut": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "frequency": 6
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0x788a7010163c05c3d50760676d64bba15c16f711",
+    "tokenOut": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "frequency": 6
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xfc00000000000000000000000000000000000001",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 6
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xf22f0cbab3c9143b5051e02fe74a451fe10e1a13",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 6
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "tokenOut": "0xae78736cd615f374d3085123a210448e74fc6393",
+    "frequency": 6
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+    "frequency": 5
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
+    "tokenOut": "0x4b1e2c2762667331bc91648052f646d1b0d35984",
+    "frequency": 5
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "tokenOut": "0xcec3ba7029d54d005275d3510960cfe433811c59",
+    "frequency": 5
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xe108fbc04852b5df72f9e44d7c29f47e7a993add",
+    "tokenOut": "0xae6a904ea90ff8bb78e5c94e1543877ba023bb9b",
+    "frequency": 5
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
+    "frequency": 5
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0xba100000625a3754423978a60c9317c58a424e3d",
+    "frequency": 5
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a",
+    "frequency": 5
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "tokenOut": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "frequency": 5
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 5
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x32df62dc3aed2cd6224193052ce665dc18165841",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 5
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 5
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "tokenOut": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "frequency": 5
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
+    "tokenOut": "0x9c32185b81766a051e08de671207b34466dd1021",
+    "frequency": 5
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "tokenOut": "0x775f661b0bd1739349b9a2a3ef60be277c5d2d29",
+    "frequency": 5
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "tokenOut": "0xb58e61c3098d85632df34eecfb899a1ed80921cb",
+    "frequency": 5
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "frequency": 4
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x8e94704607e857eb3e10bd21d90bf8c1ecba0452",
+    "frequency": 4
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+    "frequency": 4
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0x0b2b2b2076d95dda7817e785989fe353fe955ef9",
+    "tokenOut": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "frequency": 4
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x7d7e4f49a29dda8b1ecdcf8a8bc85edcb234e997",
+    "tokenOut": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "frequency": 4
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0x8399c8fc273bd165c346af74a02e65f10e4fd78f",
+    "frequency": 4
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+    "tokenOut": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "frequency": 4
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "frequency": 4
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 4
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "tokenOut": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "frequency": 4
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817",
+    "frequency": 4
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
+    "tokenOut": "0xc71ea051a5f82c67adcf634c36ffe6334793d24c",
+    "frequency": 4
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0x4ea71a20e655794051d1ee8b6e4a3269b13ccacc",
+    "tokenOut": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "frequency": 4
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0x0b2b2b2076d95dda7817e785989fe353fe955ef9",
+    "tokenOut": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+    "frequency": 4
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xa9c251f8304b1b3fc2b9e8fcae78d94eff82ac66",
+    "tokenOut": "0x616185600989bf8339b58ac9e539d49536598343",
+    "frequency": 4
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x76309a9a56309104518847bba321c261b7b4a43f",
+    "frequency": 4
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "tokenOut": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "frequency": 4
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
+    "tokenOut": "0x6f4ae97d73c295d69828618ef18bdd1ba0593df1",
+    "frequency": 4
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa13a9247ea42d743238089903570127dda72fe44",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 4
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "frequency": 3
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+    "tokenOut": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "tokenOut": "0xddb3422497e61e13543bea06989c0789117555c5",
+    "frequency": 3
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0xf31cdb090d1d4b86a7af42b62dc5144be8e42906",
+    "tokenOut": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "tokenOut": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "tokenOut": "0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xe108fbc04852b5df72f9e44d7c29f47e7a993add",
+    "tokenOut": "0xac3ac67899315379f9e32ebbe342e0e67c17cd25",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6",
+    "tokenOut": "0x06bb4ab600b7d22eb2c312f9babc22be6a619046",
+    "frequency": 3
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+    "tokenOut": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "frequency": 3
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x7d7e4f49a29dda8b1ecdcf8a8bc85edcb234e997",
+    "tokenOut": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0xd4fa2d31b7968e448877f69a96de69f5de8cd23e",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a",
+    "tokenOut": "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xc3d21f79c3120a4ffda7a535f8005a7c297799bf",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+    "frequency": 3
+  },
+  {
+    "chain": "999",
+    "tokenIn": "0x9c59a9389d8f72de2cdaf1126f36ea4790e2275e",
+    "tokenOut": "0x2222222222222222222222222222222222222222",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xd4fa2d31b7968e448877f69a96de69f5de8cd23e",
+    "frequency": 3
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+    "tokenOut": "0xef7b1a03e0897c33b63159e38d779e3970c0e2fc",
+    "frequency": 3
+  },
+  {
+    "chain": "43114",
+    "tokenIn": "0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3",
+    "tokenOut": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "frequency": 3
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xa9c251f8304b1b3fc2b9e8fcae78d94eff82ac66",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 3
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x32df62dc3aed2cd6224193052ce665dc18165841",
+    "tokenOut": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x64b76158c3a9176b0ef6c00d1b957f10c07663d8",
+    "tokenOut": "0x6340ce0f2b9271b59ab89d1320fbe1a51b6fdde7",
+    "frequency": 3
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "tokenOut": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "frequency": 3
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xc0634090f2fe6c6d75e61be2b949464abb498973",
+    "frequency": 3
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xfa2a03b6f4a65fb1af64f7d935fdbf78693df9af",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 3
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
+    "tokenOut": "0xef7b1a03e0897c33b63159e38d779e3970c0e2fc",
+    "frequency": 3
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
+    "tokenOut": "0xef7b1a03e0897c33b63159e38d779e3970c0e2fc",
+    "frequency": 3
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xffd9c960bc303b8d3aaed58229ce8a7310bcc5b8",
+    "tokenOut": "0x9deb0fc809955b79c85e82918e8586d3b7d2695a",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
+    "frequency": 3
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xef7b1a03e0897c33b63159e38d779e3970c0e2fc",
+    "frequency": 3
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "frequency": 3
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x85955046df4668e1dd369d2de9f3aeb98dd2a369",
+    "tokenOut": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "frequency": 3
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xfc00000000000000000000000000000000000005",
+    "frequency": 3
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x4ff50c17df0d1b788d021acd85039810a1aa68a1",
+    "tokenOut": "0xa6d12574efb239fc1d2099732bd8b5dc6306897f",
+    "frequency": 3
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
+    "frequency": 3
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "tokenOut": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 2
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0xf31cdb090d1d4b86a7af42b62dc5144be8e42906",
+    "tokenOut": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "frequency": 2
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0xf31cdb090d1d4b86a7af42b62dc5144be8e42906",
+    "tokenOut": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "frequency": 2
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0xd22ade7140d9b22b67291a5cd0e3e597831c84a8",
+    "tokenOut": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "frequency": 2
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
+    "tokenOut": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+    "tokenOut": "0x7bc3485026ac48b6cf9baf0a377477fff5703af8",
+    "frequency": 2
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "tokenOut": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "frequency": 2
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "tokenOut": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "tokenOut": "0xda5e1988097297dcdc1f90d4dfe7909e847cbef6",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "tokenOut": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
+    "frequency": 2
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+    "tokenOut": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "frequency": 2
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+    "tokenOut": "0xd4fa2d31b7968e448877f69a96de69f5de8cd23e",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x7ef541e2a22058048904fe5744f9c7e4c57af717",
+    "tokenOut": "0xfb23cfd35046466fdba7f73dc2fccb5b17abf1aa",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xfb23cfd35046466fdba7f73dc2fccb5b17abf1aa",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xbb50a5341368751024ddf33385ba8cf61fe65ff9",
+    "tokenOut": "0x06bb4ab600b7d22eb2c312f9babc22be6a619046",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xf24d8651578a55b0c119b9910759a351a3458895",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 2
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x7d7e4f49a29dda8b1ecdcf8a8bc85edcb234e997",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0x2411802d8bea09be0af8fd8d08314a63e706b29c",
+    "frequency": 2
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+    "tokenOut": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xf915110898d9a455ad2da51bf49520b41655ccea",
+    "frequency": 2
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0x4917a5ec9fcb5e10f47cbb197abe6ab63be81fe8",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xd722e55c1d9d9fa0021a5215cbb904b92b3dc5d4",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x48f9e38f3070ad8945dfeae3fa70987722e3d89c",
+    "tokenOut": "0xdbdc1ef57537e34680b898e1febd3d68c7389bcb",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+    "tokenOut": "0x03e3f1653dbdc6534f8721538002bc1910b1b93a",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x82698aecc9e28e9bb27608bd52cf57f704bd1b83",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xac3e018457b222d93114458476f3e3416abbe38f",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x7bc3485026ac48b6cf9baf0a377477fff5703af8",
+    "frequency": 2
+  },
+  {
+    "chain": "43114",
+    "tokenIn": "0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xa9c251f8304b1b3fc2b9e8fcae78d94eff82ac66",
+    "tokenOut": "0x9c46ee1f01d2b551048f5ff99a4659d98d04bed1",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x216a7d520992ed198593a16e0b17c784c9cdc660",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xffffffff2ba8f66d4e51811c5190992176930278",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
+    "frequency": 2
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x32df62dc3aed2cd6224193052ce665dc18165841",
+    "tokenOut": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a",
+    "tokenOut": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "frequency": 2
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+    "frequency": 2
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x6340ce0f2b9271b59ab89d1320fbe1a51b6fdde7",
+    "tokenOut": "0x64b76158c3a9176b0ef6c00d1b957f10c07663d8",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x8e903856407d1c0cc90fa273130f3605ece6cd01",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
+    "tokenOut": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xa3d4bee77b05d4a0c943877558ce21a763c4fa29",
+    "frequency": 2
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8",
+    "tokenOut": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "frequency": 2
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6",
+    "tokenOut": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
+    "tokenOut": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x890a5122aa1da30fec4286de7904ff808f0bd74a",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x27f485b62c4a7e635f561a87560adf5090239e93",
+    "tokenOut": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+    "frequency": 2
+  },
+  {
+    "chain": "43114",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xaaab9d12a30504559b0c5a9a5977fee4a6081c6b",
+    "frequency": 2
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "tokenOut": "0x081ec4c0e30159c8259bad8f4887f83010a681dc",
+    "frequency": 2
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x0d86eb9f43c57f6ff3bc9e23d8f9d82503f0e84b",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x4b1e2c2762667331bc91648052f646d1b0d35984",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "tokenOut": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0",
+    "tokenOut": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0",
+    "tokenOut": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+    "frequency": 2
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
+    "tokenOut": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "tokenOut": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "frequency": 2
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xfc00000000000000000000000000000000000001",
+    "tokenOut": "0x2fc7447f6cf71f9aa9e7ff8814b37e55b268ec91",
+    "frequency": 2
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xfc00000000000000000000000000000000000001",
+    "tokenOut": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x6440f144b7e50d6a8439336510312d2f54beb01d",
+    "tokenOut": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "tokenOut": "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeef7b1f06b092625228c835dd5d5b14641d1e54a",
+    "tokenOut": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+    "frequency": 2
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
+    "tokenOut": "0x2086f52651837600180de173b09470f54ef74910",
+    "frequency": 2
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xe9c082921dc3564e10196c5cc15db1250ac7d5c6",
+    "frequency": 2
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xa9c251f8304b1b3fc2b9e8fcae78d94eff82ac66",
+    "frequency": 2
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x1b224a294920c8c7c534115d3dcb02dc9fb7c0a6",
+    "tokenOut": "0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0",
+    "frequency": 2
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x4ff50c17df0d1b788d021acd85039810a1aa68a1",
+    "tokenOut": "0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+    "tokenOut": "0x890a5122aa1da30fec4286de7904ff808f0bd74a",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+    "tokenOut": "0x77146784315ba81904d654466968e3a7c196d1f3",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+    "tokenOut": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+    "tokenOut": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+    "frequency": 2
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "tokenOut": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "tokenOut": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
+    "tokenOut": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x9de41aff9f55219d5bf4359f167d1d0c772a396d",
+    "tokenOut": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xddb3422497e61e13543bea06989c0789117555c5",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
+    "tokenOut": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
+    "tokenOut": "0xd22ade7140d9b22b67291a5cd0e3e597831c84a8",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
+    "tokenOut": "0x83f20f44975d03b1b09e64809b757c47f942beea",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x09eadcbaa812a4c076c3a6cde765dc4a22e0d775",
+    "frequency": 1
+  },
+  {
+    "chain": "43114",
+    "tokenIn": "0x2137568666f12fc5a026f5430ae7194f1c1362ab",
+    "tokenOut": "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xf24d8651578a55b0c119b9910759a351a3458895",
+    "tokenOut": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "tokenOut": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "tokenOut": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xb46dd8fa3eaba87a62e9a5d0d96483faa55a9d01",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "tokenOut": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+    "tokenOut": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "tokenOut": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90",
+    "tokenOut": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xfc248cef4c8763838743d3bd599a27e1bd6397f4",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xfc00000000000000000000000000000000000005",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "tokenOut": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0x994ac01750047b9d35431a7ae4ed312ee955e030",
+    "tokenOut": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x484be0540ad49f351eaa04eeb35df0f937d4e73f",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x82c370ba90e38ef6acd8b1b078d34fd86fc6bac9",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "tokenOut": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+    "tokenOut": "0x4e8aaecce10ad9394e96fe5f2bd4e587a7b04298",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+    "tokenOut": "0xfb23cfd35046466fdba7f73dc2fccb5b17abf1aa",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xfb23cfd35046466fdba7f73dc2fccb5b17abf1aa",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xfda94f056346d2320d4b5e468d6ad099b2277746",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x58d9acac48a4077e4909181c48decd00e5ba5de4",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x8399c8fc273bd165c346af74a02e65f10e4fd78f",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xbad20c15a773bf03ab973302f61fabcea5101f0a",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xac3ac67899315379f9e32ebbe342e0e67c17cd25",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xbb50a5341368751024ddf33385ba8cf61fe65ff9",
+    "tokenOut": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xd4e7c1f3da1144c9e2cfd1b015eda7652b4a4399",
+    "tokenOut": "0x06bb4ab600b7d22eb2c312f9babc22be6a619046",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x06bb4ab600b7d22eb2c312f9babc22be6a619046",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0xeef7b1f06b092625228c835dd5d5b14641d1e54a",
+    "tokenOut": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
+    "frequency": 1
+  },
+  {
+    "chain": "1101",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xc63529297de076eb15fcbe873ae9136e446cfbb9",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xd09acb80c1e8f2291862c4978a008791c9167003",
+    "tokenOut": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x7d7e4f49a29dda8b1ecdcf8a8bc85edcb234e997",
+    "tokenOut": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x7d7e4f49a29dda8b1ecdcf8a8bc85edcb234e997",
+    "tokenOut": "0xaa846004dc01b532b63feaa0b7a0cb0990f19ed9",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "tokenOut": "0x8399c8fc273bd165c346af74a02e65f10e4fd78f",
+    "frequency": 1
+  },
+  {
+    "chain": "1101",
+    "tokenIn": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "999",
+    "tokenIn": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+    "tokenOut": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "frequency": 1
+  },
+  {
+    "chain": "999",
+    "tokenIn": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "tokenOut": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x6c0aeceedc55c9d55d8b99216a670d85330941c3",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xd722e55c1d9d9fa0021a5215cbb904b92b3dc5d4",
+    "tokenOut": "0x4200000000000000000000000000000000000006",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x178c820f862b14f316509ec36b13123da19a6054",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xdcb01cc464238396e213a6fdd933e36796eaff9f",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0x5a7a2bf9ffae199f088b25837dcd7e115cf8e1bb",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0x4917a5ec9fcb5e10f47cbb197abe6ab63be81fe8",
+    "tokenOut": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0x4917a5ec9fcb5e10f47cbb197abe6ab63be81fe8",
+    "tokenOut": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 1
+  },
+  {
+    "chain": "999",
+    "tokenIn": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+    "tokenOut": "0x2222222222222222222222222222222222222222",
+    "frequency": 1
+  },
+  {
+    "chain": "34443",
+    "tokenIn": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
+    "tokenOut": "0x59889b7021243db5b1e065385f918316cd90d46c",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+    "tokenOut": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "tokenOut": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x04c154b66cb340f3ae24111cc767e0184ed00cc6",
+    "tokenOut": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x04c154b66cb340f3ae24111cc767e0184ed00cc6",
+    "tokenOut": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x1622bf67e6e5747b81866fe0b85178a93c7f86e3",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x82698aecc9e28e9bb27608bd52cf57f704bd1b83",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xa1082bdfc6f21cd71073ffee2823139d67878aae",
+    "tokenOut": "0xd63f8decb14e83a1a2a950f66dc9437507b5f81f",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xe98fc055c99decd8da0c111b090885d5d15c774e",
+    "tokenOut": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x007606064f8a40745336f91a1e4345900143756b",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+    "tokenOut": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x9c354503c38481a7a7a51629142963f98ecc12d0",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xd2af830e8cbdfed6cc11bab697bb25496ed6fa62",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xcffcfdada28ab44d5440301470dcd410e75c4765",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xaac41ec512808d64625576eddd580e7ea40ef8b2",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xf51092fe93b4e9282f42c459f05d93d2d079549e",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xadc8c01ee53df97db1fdacb4be44756dbca1e834",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x6d52dfefb16bb9cdc78bfca09061e44574886626",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+    "frequency": 1
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "tokenOut": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x0d3aab4f1fafc55856cd02116bc90c05d65b8247",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x8f4bebf498cc624a0797fe64114a6ff169eee078",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xb01dd87b29d187f3e3a4bf6cdaebfb97f3d9ab98",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x1c93d155bd388241f9ab5df500d69eb529ce9583",
+    "frequency": 1
+  },
+  {
+    "chain": "999",
+    "tokenIn": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+    "tokenOut": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xfc00000000000000000000000000000000000002",
+    "tokenOut": "0xfc00000000000000000000000000000000000008",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x32df62dc3aed2cd6224193052ce665dc18165841",
+    "tokenOut": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+    "frequency": 1
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "tokenOut": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "frequency": 1
+  },
+  {
+    "chain": "43114",
+    "tokenIn": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
+    "tokenOut": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "tokenOut": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "tokenOut": "0xc229cc41f523f165436f2d52c62b80602cd76f51",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x8db0a6d1b06950b4e81c4f67d1289fc7b9359c7f",
+    "tokenOut": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x559b7bfc48a5274754b08819f75c5f27af53d53b",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+    "tokenOut": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x534d1f5e617e0f72a6b06a04aa599839af776a5e",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x9e4c86ecaf6c0bee53cbbbcc38a683d472630b9c",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x867172de8ad0f66e9591860be18f40eb00068159",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x5510e5dd54a9ddb727526c1ef24f2aab6d2f0b3b",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x4dada40b2b2a2aa84e059de66fc642f35c7a7076",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x92e899ceb030691a79d8fd385e545c8cf20995c6",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+    "tokenOut": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xf30e5876e973eacaab60dcf1f92b9589544889d4",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x13197ade0144be5b3ab492a15c792c097b289a45",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xf293d23bf2cdc05411ca0eddd588eb1977e8dcd4",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x3bf298a1b52f87fc1fdadb211bc872b15f5a4afa",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xeca82185adce47f39c684352b0439f030f860318",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x20945ca1df56d237fd40036d47e866c7dccd2114",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x69e8b9528cabda89fe846c67675b5d73d463a916",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x3ae6a0fda23c9a96f17208e47876d0313410cd36",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x59e9261255644c411afdd00bd89162d09d862e38",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x427a03fb96d9a94a6727fbcfbba143444090dd64",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0xf88baf18fab7e330fa0c4f83949e23f52fececce",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x98fae31948b16b90a2c72cccc10cb61654850b28",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x4c327471c44b2dacd6e90525f9d629bd2e4f662c",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x856c4388c56c2a613c60507a4701af627157fed6",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "tokenOut": "0x32b86b99441480a7e5bd3a26c124ec2373e3f015",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "tokenOut": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x4ba01f22827018b4772cd326c7627fb4956a7c00",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x27f485b62c4a7e635f561a87560adf5090239e93",
+    "tokenOut": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0xd22ade7140d9b22b67291a5cd0e3e597831c84a8",
+    "tokenOut": "0x9c32185b81766a051e08de671207b34466dd1021",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+    "tokenOut": "0x9c32185b81766a051e08de671207b34466dd1021",
+    "frequency": 1
+  },
+  {
+    "chain": "43114",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xe15bcb9e0ea69e6ab9fa080c4c4a5632896298c3",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "tokenOut": "0x333a4823466879eef910a04d473505da62142069",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
+    "tokenOut": "0x3839a0dd920463eb5d8231efe4d8c5edc44145ec",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x38c2a4a7330b22788374b8ff70bba513c8d848ca",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
+    "tokenOut": "0xd22ade7140d9b22b67291a5cd0e3e597831c84a8",
+    "frequency": 1
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xef7b1a03e0897c33b63159e38d779e3970c0e2fc",
+    "tokenOut": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
+    "frequency": 1
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xef7b1a03e0897c33b63159e38d779e3970c0e2fc",
+    "tokenOut": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x4b1e2c2762667331bc91648052f646d1b0d35984",
+    "tokenOut": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+    "tokenOut": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x66a3c2fa3e467aa586e90912f977e648589cabaf",
+    "tokenOut": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "tokenOut": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xFC00000000000000000000000000000000000006",
+    "tokenOut": "0xfc00000000000000000000000000000000000002",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x775f661b0bd1739349b9a2a3ef60be277c5d2d29",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "tokenOut": "0xc760f9782f8cea5b06d862574464729537159966",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x56072c95faa701256059aa122697b133aded9279",
+    "tokenOut": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+    "frequency": 1
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "tokenOut": "0x323c05bc83c549e2e3deba1bb6800a63e7220f24",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "tokenOut": "0x7bc3485026ac48b6cf9baf0a377477fff5703af8",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "tokenOut": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xfc00000000000000000000000000000000000001",
+    "tokenOut": "0xfc00000000000000000000000000000000000002",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xfc00000000000000000000000000000000000001",
+    "tokenOut": "0xfc00000000000000000000000000000000000005",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xfc00000000000000000000000000000000000001",
+    "tokenOut": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "tokenOut": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+    "tokenOut": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xbb6881874825e60e1160416d6c426eae65f2459e",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x804cdb9116a10bb78768d3252355a1b18067bf8f",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x2e3cfe45e3ee7c017277f22e35d2f29edc99d570",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xd4e7c1f3da1144c9e2cfd1b015eda7652b4a4399",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+    "tokenOut": "0xeef7b1f06b092625228c835dd5d5b14641d1e54a",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "tokenOut": "0xf4edfad26ee0d23b69ca93112ecce52704e0006f",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xf4edfad26ee0d23b69ca93112ecce52704e0006f",
+    "tokenOut": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "frequency": 1
+  },
+  {
+    "chain": "9745",
+    "tokenIn": "0xef7b1a03e0897c33b63159e38d779e3970c0e2fc",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x2dca80061632f3f87c9ca28364d1d0c30cd79a19",
+    "tokenOut": "0x8054d4d130c3a84852f379424bcac75673a7486b",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128",
+    "tokenOut": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x6f4ae97d73c295d69828618ef18bdd1ba0593df1",
+    "tokenOut": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x6f4ae97d73c295d69828618ef18bdd1ba0593df1",
+    "tokenOut": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
+    "frequency": 1
+  },
+  {
+    "chain": "143",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x4e8aaecce10ad9394e96fe5f2bd4e587a7b04298",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xf0655dcee37e5c0b70fffd70d85f88f8edf0aff6",
+    "tokenOut": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x4158734d47fc9692176b5085e0f52ee0da5d47f1",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x5484451a88a35cd0878a1be177435ca8a0e4054e",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "8453",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+    "frequency": 1
+  },
+  {
+    "chain": "100",
+    "tokenIn": "0x3390742ac0dce14ea6fcbd5ae02e2303c5d62ad9",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "10",
+    "tokenIn": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+    "tokenOut": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "frequency": 1
+  },
+  {
+    "chain": "10",
+    "tokenIn": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
+    "tokenOut": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xcec3ba7029d54d005275d3510960cfe433811c59",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "137",
+    "tokenIn": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
+    "tokenOut": "0x0000000000000000000000000000000000001010",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x8e3a59427b1d87db234dd4ff63b25e4bf94672f4",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xfc00000000000000000000000000000000000002",
+    "tokenOut": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "tokenOut": "0x6cb787a419c3e6ee2e9ff365856c29cd10659113",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x6cb787a419c3e6ee2e9ff365856c29cd10659113",
+    "tokenOut": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x6cb787a419c3e6ee2e9ff365856c29cd10659113",
+    "tokenOut": "0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xfc00000000000000000000000000000000000002",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0x4ff50c17df0d1b788d021acd85039810a1aa68a1",
+    "tokenOut": "0xd08c3f25862077056cb1b710937576af899a4959",
+    "frequency": 1
+  },
+  {
+    "chain": "252",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0xa13a9247ea42d743238089903570127dda72fe44",
+    "tokenOut": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "tokenOut": "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "tokenOut": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "tokenOut": "0x77146784315ba81904d654466968e3a7c196d1f3",
+    "frequency": 1
+  },
+  {
+    "chain": "1",
+    "tokenIn": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "tokenOut": "0x890a5122aa1da30fec4286de7904ff808f0bd74a",
+    "frequency": 1
+  },
+  {
+    "chain": "42161",
+    "tokenIn": "0xe10d4a4255d2d35c9e23e2c4790e073046fbaf5c",
+    "tokenOut": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "frequency": 1
+  },
+  {
+    "chain": "10",
+    "tokenIn": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "tokenOut": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "frequency": 1
+  }
+]
